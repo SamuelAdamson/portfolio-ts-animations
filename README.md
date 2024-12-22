@@ -5,8 +5,8 @@ this repository is used as a testing ground for web graphics animations. a web g
 
 ### dependencies
 
-[three.js](https://threejs.org/)
-[vite](https://vite.dev/) 
+[three.js](https://threejs.org/) <br>
+[vite](https://vite.dev/) <br>
 
 
 ### set up new directory
