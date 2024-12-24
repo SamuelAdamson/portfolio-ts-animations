@@ -1,4 +1,4 @@
-# ts animations
+# portfolio - ts animations
 
 this repository is used as a testing ground for web graphics animations. a web graphic animation will be used as the background for the second iteration of my portfolio site (portfolio-2.0).
 
