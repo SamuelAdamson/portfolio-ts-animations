@@ -5,8 +5,8 @@ this repository is used as a testing ground for web graphics animations. a web g
 
 ### dependencies
 
-[three.js](https://threejs.org/) <br>
-[vite](https://vite.dev/) <br>
+[node](https://nodejs.org/en) <br>
+[npm](https://www.npmjs.com/) <br>
 
 
 ### set up new directory
@@ -15,9 +15,7 @@ install dependencies
 
 ```
 npm init -y
-npm install three
-npm install typescript @types/three
-npm install vite
+npm install three typescript @types/three vite
 ```
 
 create typescript config
