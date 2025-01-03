@@ -67,3 +67,9 @@ mkdir src
 touch src/index.ts
 touch index.html
 ```
+
+### run sample
+
+```
+npm run dev
+```
