@@ -1,0 +1,17 @@
+{
+  "name": "particle_rectangle",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "pixi.js": "^8.6.6",
+    "typescript": "^5.7.2",
+    "vite": "^6.0.7"
+  }
+}

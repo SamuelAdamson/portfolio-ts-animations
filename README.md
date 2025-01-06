@@ -15,7 +15,19 @@ install dependencies
 
 ```
 npm init -y
-npm install three typescript @types/three vite
+npm install typescript vite
+```
+
+dependencies for _threejs_ (3D)
+
+```
+npm install three @types/three
+```
+
+dependencies for _pixijs_ (2D)
+
+```
+npm install pixi.js
 ```
 
 create typescript config
